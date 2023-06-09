@@ -7,3 +7,4 @@ ply>=3.11
 pyhcl==0.3.12
 werkzeug==2.0.1
 itsdangerous==2.0.1
+markupsafe==2.0.1
